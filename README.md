@@ -8,6 +8,6 @@ This project will interface an Arduino Uno to the Speakjet IC using a serial por
 
 ## Table of Contents
 
-- [Project Proposal](project_proposal)
+- [Project Proposal](project_proposal.md)
 
-- [Sources Cited](sources)  
+- [Sources Cited](sources.md)  
